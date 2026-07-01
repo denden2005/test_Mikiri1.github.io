@@ -4,7 +4,7 @@ let flashTime = 0;
 let playerReactionTime = 0;
 
 // 敵の反応速度（日本人の平均反射神経：220ミリ秒）
-const ENEMY_REACTION_TIME = 270; 
+const ENEMY_REACTION_TIME = 265; 
 
 // アニメーション用の位置変数
 let playerX = 150;
